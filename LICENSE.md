@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Module | take-profit-orders + trade-sniping is the best Polymarket module, featuring take-profit-orders and trade-sniping. Smart, fast, and optimized for
 
 
 
